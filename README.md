@@ -25,5 +25,5 @@
 
 <div align="center">
   
-  ![Joined GitHub in 2018](https://img.shields.io/badge/Joined-2014-blue)
+  ![Joined GitHub in 2018](https://img.shields.io/badge/Joined-2019-blue)
 </div>
