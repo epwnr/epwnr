@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I am Has , a simple guy</h2>
-<h4 align="center">Back End and Desktop Application Developer</h4>
+<h4 align="center">Software Engineering And Back-End Developer</h4>
 <br />
 <div align="center">
 
